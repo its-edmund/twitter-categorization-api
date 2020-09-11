@@ -16,3 +16,4 @@ nltk
 sklearn
 matplotlib
 tensorflow
+freeze
